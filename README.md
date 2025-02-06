@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div style="display: inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbiel1&show_icons=true&hide=prs&count_private=true&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=15&theme=midnight-purple"/>
-  <img style="border-radius: 10px" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel1&layout=compact&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=10)](https://github.com/devbiel1"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=devbiel1&show_icons=true&hide=prs&count_private=true&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=15&theme=midnight-purple"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel1&layout=compact&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=10)](https://github.com/devbiel1"/>
 </div>
 
 <hr>
