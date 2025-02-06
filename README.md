@@ -7,8 +7,6 @@
   </ul>
 </div>
 
-<hr>
-
   <h3>My stats:</h3>
 
 <div style="display: flex; justify-content: center;">
