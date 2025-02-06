@@ -15,10 +15,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devbiel1&show_icons=true&hide=prs&count_private=true&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=0&theme=midnight-purple"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel1&layout=compact&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=10)](https://github.com/devbiel1"/>
 </div>
-
-<hr>
-
-  <h3>My skills:</h3>
   
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,8 +31,8 @@
 <h3>My social networks:</h3>
 
 <div>
-
-  <a href="https://www.linkedin.com/in/genesis-evangelion-3a2380349/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/genesis-evangelion-3a2380349/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </div>
 
