@@ -1,4 +1,13 @@
-### Hi there 👋
+<div>
+  <h2>Hi, my name is Gabriel but you can call me Biel :)</h2>
+
+  <ul>
+    <li><p>💻 Studying software engineering</p></li>
+    <li><p>🚀 Looking for your first job as a programmer</p></li>
+  </ul>
+</div>
+
+<hr>
 
 <div style="display: flex; justify-content: center; gap: 20px">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devbiel1&show_icons=true&hide=prs&count_private=true&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=0&theme=midnight-purple"/>
