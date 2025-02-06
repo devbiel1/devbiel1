@@ -11,7 +11,7 @@
 
   <h3>My stats:</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px">
+<div style="display: flex; justify-content: center; padding: 10px">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devbiel1&show_icons=true&hide=prs&count_private=true&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=0&theme=midnight-purple"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel1&layout=compact&bg_color=000000&title_color=883EDE&text_color=c&icon_color=9D7CD8&border_color=9D7CD8&border_radius=10)](https://github.com/devbiel1"/>
 </div>
@@ -33,7 +33,8 @@
 <div>
   
   <a href="https://www.linkedin.com/in/genesis-evangelion-3a2380349/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+  <a href="https://x.com/cowboy_genesis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/cowboy_genesis" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
 </div>
 
 
